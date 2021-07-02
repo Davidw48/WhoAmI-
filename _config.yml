@@ -44,7 +44,7 @@ additional_links:
 about_profile_image: images/dw.PNG
 about_content: | # this will include new lines to allow paragraphs
   
-  I have a PhD in Geography from Northwestern - a long time ago - and even before that a BA (Hons) geography University of Western Australia. I have worked at the Chicago Area Transport Study, Los Angeles California Rapid Transit District and Ministry of Transport Victoria. Currently I am an academic at The University of Melbourne and passionate about learning ML, R and all of that stuff. 
+  #I have a PhD in Geography from Northwestern - a long time ago - and even before that a BA (Hons) geography University of Western Australia. I have worked at the Chicago Area Transport Study, Los Angeles California Rapid Transit District and Ministry of Transport Victoria. Currently I am an academic at The University of Melbourne and passionate about learning ML, R and all of that stuff. 
  
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
