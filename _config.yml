@@ -6,9 +6,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: David Wilson
-title: PhD Geography, Researcher
-email: diwilson@unimelb.edu.au
+name: Kamal Akbari
+title: PhD Candidate
+email: akbarik@unimelb.edu.au
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -19,10 +19,10 @@ email: diwilson@unimelb.edu.au
 #darkmode: false
 
 # Social links
-#twitter_username: 
-github_username:  Davidw48
-#linkedin_username: 
-#youtube_username:
+twitter_username: kamalakbari7
+github_username:  Kamalakbari7
+linkedin_username: jekyll
+#youtube_username: kaka
 
 # Additional icon links
 additional_links:
