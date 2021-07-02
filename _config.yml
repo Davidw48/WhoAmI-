@@ -44,8 +44,8 @@ additional_links:
 about_profile_image: images/dw.PNG
 about_content: | # this will include new lines to allow paragraphs
   
-  "<mark>Spatial data science</mark> can be viewed as a subset of generic "<mark>data science</mark>  that focuses on the special characteristics of spatial data, i.e., the importance of “where.” Data science is often referred to as the science of extracting meaningful information from data. In this context, it is useful to stress the difference between standard (i.e., non-spatial) data science applied to spatial data on the one hand and spatial data science on the other. The former treats spatial information, such as the latitude and longitude of data points as simply an additional variable, but otherwise does not adjust analytical methods or software tools. In contrast, “true” spatial data science treats location, distance, and spatial interaction as core aspects of the data and employs specialized methods and software to store, retrieve, explore, analyze, visualize and learn from such data. In this sense, spatial data science relates to data science as spatial statistics to statistics, spatial databases to databases, and geocomputation to computation." (Luc Anselin, 2019, "Spatial Data Science" in The International Encyclopedia of Geography: People, the Earth, Environment, and Technology.)
-  
+ I have a PhD in Geography from Northwestern - a long time ago - and even before that a BA (Hons) geography University of Western Australia. I have worked at the Chicago Area Transport Study, Los Angeles California Rapid Transit District and Ministry of Transport Victoria. Currently I am an academic at The University of Melbourne and passionate about learning ML, R and all of that stuff. 
+ 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
